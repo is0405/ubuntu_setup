@@ -32,5 +32,5 @@ if [ ! -L /usr/bin/slack ]; then
 fi
 
 #chrome gnome install
-sudo apt install chrome-gnome-shell
-sudo apt install gnome-tweaks
+sudo apt install chrome-gnome-shell -y
+sudo apt install gnome-tweaks -y
